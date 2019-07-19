@@ -1,0 +1,3 @@
+This service checks the websnort API to see if it contains known community signature in PCAP. It will then collect relevant data.
+
+Require access to websnort service API (https://github.com/lprat/docker-snort)

@@ -1,0 +1,2 @@
+The Websnort service requires the following python modules:
+	- Requests
